@@ -17,10 +17,10 @@ La explicación detallada del proceso y desarrollo del proyecto se puede encontr
   <a href="https://github.com/RoboticsURJC/proyecto-DACIU-laia/wiki" 
      target="_blank"
      style="position: absolute; 
-            top: 10%;           
-            left: 15%;          
-            width: 30%;         
-            height: 20%;        
+            top: 100%;           
+            left: 100%;          
+            width: 100%;         
+            height: 100%;        
             cursor: pointer;
             display: block;
             z-index: 10;
