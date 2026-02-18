@@ -7,27 +7,24 @@ La explicación detallada del proceso y desarrollo del proyecto se puede encontr
 
 
 
-
-
 <div style="position: relative; width: 100%; max-width: 1280px; margin: 0 auto;">
   <!-- Tu imagen de fondo -->
   <img src="https://github.com/RoboticsURJC/proyecto-DACIU-laia/blob/main/img/adisresic-mars-7510935_1280.jpg?raw=true" 
        alt="Descripción de la imagen" 
        style="width: 100%; height: auto; display: block;">
   
-  <!-- Zona clicable (el área del mapa) -->
+  <!-- Zona clicable -->
   <a href="https://github.com/RoboticsURJC/proyecto-DACIU-laia/wiki" 
      target="_blank"
      style="position: absolute; 
-            top: 20%;       
-            left: 25%;          
-            width: 40%;       
-            height: 30%;        
+            top: 10%;           
+            left: 15%;          
+            width: 30%;         
+            height: 20%;        
             cursor: pointer;
             display: block;
             z-index: 10;
-            border: 2px solid red; 
+            border: 2px solid red; /* Cambiado: sin comillas dobles */
             ">
-    <!-- El contenido del enlace está vacío, pero es funcional -->
   </a>
 </div>
